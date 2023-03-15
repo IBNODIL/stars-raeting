@@ -1,0 +1,15 @@
+body{
+  position: absolute;
+  top: 400px;
+  left: 600px;
+}
+
+i{
+  color: rgb(101, 101, 101);
+  margin: 10px;
+  font-size: 40px;
+}
+
+i:hover{
+  color: blue;
+}
